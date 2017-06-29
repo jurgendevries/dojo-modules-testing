@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start":"lite-server",
-    "test": "echo \"Testing: \" && karma start" 
+    "start":"lite-server"
   },
   "author": "",
   "license": "ISC",
