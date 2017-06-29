@@ -1,0 +1,14 @@
+{
+  "name": "dojo-modules-testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start":"lite-server",
+    "test": "echo \"Testing: \" && karma start" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "2.3.0"
+  }
+}
