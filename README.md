@@ -192,7 +192,7 @@ define([
   SpeechSearch
 ) {
   
-  describe('.fetchCurrentTemperature', function() {
+  describe('test speech', function() {
     var searchPromise;
     var promiseHelper;
 
